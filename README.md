@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tirth5828@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/0B1hDGAkeogXNbVdvYUlWNWVNb3VuTU5Fc1pKemI1ckVFM3lB/view?usp=sharing&resourcekey=0-C-PlTQ57RUK1QKAP4h5wDg)
+- 📄 Know about my experiences [https://drive.google.com/file/d/0B1hDGAkeogXNbVdvYUlWNWVNb3VuTU5Fc1pKemI1ckVFM3lB/view?usp=sharing&resourcekey=0-C-PlTQ57RUK1QKAP4h5wDg](https://drive.google.com/file/d/0B1hDGAkeogXNbVdvYUlWNWVNb3VuTU5Fc1pKemI1ckVFM3lB/view?usp=sharing&resourcekey=0-C-PlTQ57RUK1QKAP4h5wDg)
 
 - ⚡ Fun fact **I am a overthinker**
 
@@ -29,7 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tirth5828&show_icons=true&locale=en" alt="tirth5828" /></p>
 
-<!---
-tirth5828/tirth5828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
