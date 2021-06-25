@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tirth5828@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/0B1hDGAkeogXNbVdvYUlWNWVNb3VuTU5Fc1pKemI1ckVFM3lB/view?usp=sharing&resourcekey=0-C-PlTQ57RUK1QKAP4h5wDg](https://drive.google.com/file/d/0B1hDGAkeogXNbVdvYUlWNWVNb3VuTU5Fc1pKemI1ckVFM3lB/view?usp=sharing&resourcekey=0-C-PlTQ57RUK1QKAP4h5wDg)
+- 📄 Know about my experiences [here](https://tinyurl.com/arwbvj39)
 
 - ⚡ Fun fact **I am a overthinker**
 
