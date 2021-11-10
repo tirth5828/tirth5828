@@ -27,29 +27,17 @@
 
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-<p align="left">
-<a href="https://linkedin.com/in/tirth-joshi-4634a1a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tirth-joshi-4634a1a8" height="30" width="40" /></a>
-<a href="https://kaggle.com/tirth5828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tirth5828" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tirth5828" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tirth5828" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tirth5828" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="tirth5828" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tirth5828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tirth5828" height="30" width="40" /></a>
-</p>
-
-<br>
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tirth5828&count_private=true&show_icons=true&theme=merko" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirth5828&theme=merko" />
-</a>
+<p align="center">
+  <img src = "https://activity-graph.herokuapp.com/graph?username=tirth5828&theme=react-dark&hide_border=true&area=true" width = 800>
+  <img src = "https://github-readme-stats.vercel.app/api?username=tirth5828&show_icons=true&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=tirth5828&theme=dark&hide_border=true" width = 400>
+  
+ </p>
 <br><br><br>
 
-[![Tirth's github activity graph](https://activity-graph.herokuapp.com/graph?username=tirth5828&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <br>
 
