@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on Desktop app for image transformation usinf PIL and Tkinter
 
-- 🌱 I’m currently learning Data Science, AWS, Machine Learning 
+- 🌱 I’m currently learning Data Science, Machine Learning, Web Development
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles  
 
-- 💬 Talk to me about Python, C , C++ Java , Android , Data , Maths , Open Source 
+- 💬 Talk to me about Python, C , C++ Java , Android , Data , Maths , Open Source , Web and alomost anything and everything. I might teach you or learn from you.
 
 - 📫 How to reach me **tirth5828@gmail.com**
 
