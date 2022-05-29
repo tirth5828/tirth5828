@@ -7,11 +7,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
-
-<!-- <a href="https://app.daily.dev/tirth5828"><img src="https://api.daily.dev/devcards/3ab63c6aedd8484f9f25d4ca6b04279d.png?r=fdc" align="right" width="300" alt="TIRTH JOSHI's Dev Card"/></a> -->
-
-<a href="https://app.daily.dev/tirth5828"><img src="https://github.com/tirth5828/tirth5828/blob/main/devcard.png" align="right" width="400" alt="Tirth Joshi's Dev Card"/></a>
+<a href="https://app.daily.dev/tirth5828"><img src="https://github.com/tirth5828/tirth5828/blob/main/devcard.png" align="right" width="300" alt="Tirth Joshi's Dev Card"/></a>
 
 
 - 🌱 I’m currently learning **Django , Machine Learning , Web Development and Psychology**
