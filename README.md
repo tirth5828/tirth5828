@@ -5,7 +5,7 @@
 
 
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me </h2>
 
 <a href="https://app.daily.dev/tirth5828"><img src="https://github.com/tirth5828/tirth5828/blob/main/devcard.png" align="right" width="300" alt="Tirth Joshi's Dev Card"/></a>
 
@@ -38,7 +38,7 @@
 
 
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> My GitHub Stats </h2>
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=tirth5828&show_icons=true&theme=dark&hide_border=true" height = 160>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tirth5828&show_icons=true&locale=en&layout=compact&theme=dark" alt="tirth5828"  height = 160>
