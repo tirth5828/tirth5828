@@ -1,4 +1,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=tirth5828)
+[![wakatime](https://wakatime.com/badge/user/0c0aa721-8ca9-4a7e-8aa4-1b89fa243eed.svg)](https://wakatime.com/@0c0aa721-8ca9-4a7e-8aa4-1b89fa243eed) 
+
 
 <h1 align="center">Hi 👋, I'm Tirth Joshi</h1>
 <h3 align="center">A passionate Artist from Milky Way Galaxy</h3>
@@ -43,7 +45,6 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=tirth5828&show_icons=true&theme=dark&hide_border=true" height = 160>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tirth5828&show_icons=true&locale=en&layout=compact&theme=dark" alt="tirth5828"  height = 160>
  </p>
- 
  
  
 
