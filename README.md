@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tirth5828@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1P5FwrIOW29d5cKhM_RB0Vics5P3cDuRG/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1g3S31cIuTdr2u9-RJR0xKa7hwfl6D1D0/view)
 
 - ⚡ Fun fact **I am Alive**
 
@@ -43,7 +43,7 @@
 <h2> My GitHub Stats </h2>
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=tirth5828&show_icons=true&theme=dark&hide_border=true" height = 160>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tirth5828&show_icons=true&locale=en&layout=compact&theme=dark" alt="tirth5828"  height = 160>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tirth5828&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="tirth5828"  height = 160>
  </p>
  
  
