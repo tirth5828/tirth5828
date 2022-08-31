@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tirth5828@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Vw9iXjC8we8iIlHoovKqZoZz_klTEaU7/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1x5to3YDoQkMCek6jQ8hX9b4i-kcuegDq/view?usp=sharing)
 
 - ⚡ Fun fact **I am Alive**
 
