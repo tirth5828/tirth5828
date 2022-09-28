@@ -12,11 +12,11 @@
 <a href="https://app.daily.dev/tirth5828"><img src="https://github.com/tirth5828/tirth5828/blob/main/devcard.png" align="right" width="300" alt="Tirth Joshi's Dev Card"/></a>
 
 
-- 🌱 I’m currently learning **Django , Machine Learning , Web Development and Psychology**
+- 🌱 I’m currently learning **Machine Learning and Blockchain**
 
 - 📫 How to reach me **tirth5828@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1x5to3YDoQkMCek6jQ8hX9b4i-kcuegDq/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11xTuR8nZhP7qWUQkhJnMMAg3FPCQdwyM/view)
 
 - ⚡ Fun fact **I am Alive**
 
@@ -25,13 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/tirth5828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tirth5828" height="30" width="40" /></a>
 <a href="https://kaggle.com/tirth5828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tirth5828" height="30" width="40" /></a>
-<a href="https://instagram.com/mr__google" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr__google" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tirth5828" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tirth5828" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tirth5828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tirth5828" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tirth5828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tirth5828" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tirth5828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tirth5828" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/tirth5828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="tirth5828" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tirth5828/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tirth5828/profile" height="30" width="40" /></a>
+<a href="https://instagram.com/tirth_5828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tirth5828" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
