@@ -34,11 +34,6 @@
 
 
 
-<h2> My GitHub Stats </h2>
-<p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=tirth5828&show_icons=true&theme=dark&hide_border=true" height = 160>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tirth5828&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="tirth5828"  height = 160>
- </p>
- 
+
  
 
