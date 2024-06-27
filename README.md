@@ -2,7 +2,7 @@
 [![wakatime](https://wakatime.com/badge/user/0c0aa721-8ca9-4a7e-8aa4-1b89fa243eed.svg)](https://wakatime.com/@0c0aa721-8ca9-4a7e-8aa4-1b89fa243eed) 
 
 
-<h1 align="center">Hi 👋, I'm <a href="https://tirth5828.github.io/Tirth/"> Tirth Joshi </a> </h1>
+<h1 align="center">Hi 👋, I'm <a href="https://tirth5828.github.io/"> Tirth Joshi </a> </h1>
 <h3 align="center">A passionate Artist from Milky Way Galaxy</h3>
 
 
