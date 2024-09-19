@@ -7,7 +7,7 @@
 
 ## 💫 About Me:
 
-<a href="https://app.daily.dev/tirth5828"><img src="https://github.com/tirth5828/tirth5828/blob/main/devcard.png" align="right" width="300" alt="Tirth Joshi's Dev Card"/></a>
+<a href="https://app.daily.dev/tirth5828"><img src="https://api.daily.dev/devcards/v2/IZ4OPjrea9vhrWTzmmI4c.png?type=default&r=i4y" width="356" alt="TIRTH JOSHI's Dev Card"/></a>
 
 🔭 I’m currently working on Large Language Models and Scalable Machine Learning 🤖<br>👯 I’m looking to dive into robust Quantum Machine Learning. ⚡<br>💬 Ask me about food and place to find food! 🌏 <br>😄 Fav mathematical equation: Riemann Hypothesis
 
