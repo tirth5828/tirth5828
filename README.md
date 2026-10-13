@@ -1,19 +1,36 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=tirth5828)
-[![wakatime](https://wakatime.com/badge/user/0c0aa721-8ca9-4a7e-8aa4-1b89fa243eed.svg)](https://wakatime.com/@0c0aa721-8ca9-4a7e-8aa4-1b89fa243eed) 
+# Tirth Joshi
 
+**I work on what machine learning models remember after you tell them to forget.**
 
-<h1 align="center">Hi 👋, I'm <a href="https://tirth5828.github.io/"> Tirth Joshi </a> </h1>
+MS in Artificial Intelligence at Yeshiva University (Katz School), New York. My research is on privacy and re-identification in vision and language models, with side interests in graph methods for routing and planning and in topology applied to optimisation. Alongside research I build production ML systems, most recently at A&A Coatings and uBuyFirst.
 
+Graduating December 2026 and looking for research and applied ML roles from January 2027.
 
-## 💫 About Me:
+[Website](https://tirth5828.github.io/) · [LinkedIn](https://www.linkedin.com/in/tirth5828/) · [Medium](https://medium.com/@tirth5828) · tjoshi1@mail.yu.edu
 
-🔭 I’m currently working on Large Language Models and Scalable Machine Learning 🤖<br>👯 I’m looking to dive into robust Quantum Machine Learning. ⚡<br>💬 Ask me about food and place to find food! 🌏 <br>😄 Fav mathematical equation: Riemann Hypothesis
+## Papers
 
-## 🌐 Socials:
+- **ECCV 2026, main conference.** *Compositional Non-face Re-identification Pressure Under Cumulative Vision Releases.* Tirth Joshi, Honggang Wang.
+  [Paper](https://doi.org/10.1007/978-3-032-37026-6_9) · [Project page](https://tirth5828.github.io/nfleak-eccv2026/) · [Code](https://github.com/tirth5828/nfleak-eccv2026) · [Video](https://www.youtube.com/watch?v=klbhE3_WEsc)
+- **ECCV 2026, U&ME workshop.** *Unlearning Is Not Deletion: Auditing Residual Information in Released Vision Artifacts.* Tirth Joshi, Honggang Wang.
+  [OpenReview](https://openreview.net/forum?id=NwdxtFrYCK) · [Project page](https://tirth5828.github.io/unlearning-is-not-deletion/) · [Code](https://github.com/tirth5828/unlearning-is-not-deletion)
+- **NSIA 2026 at NetSci, Boston. Best Poster.** *Preserving Manifold Structure in Landmark Coresets: Morse-Seeded Sampling on kNN Graphs.* Tirth Joshi.
+- **IEEE ICNC 2026.** *Hierarchical Graph Representation for Multi-Chain Blockchain Routing.* Tirth Joshi, Honggang Wang.
+  [Paper](https://doi.org/10.1109/ICNC68183.2026.11416872) · [YU News](https://www.yu.edu/news/katz/ieee-conference-ai-student-rethinks-how-money-moves-across-blockchains)
+- **YU CSE 2025. Best Research.** *Do Phonetic Patterns Predict Grammatical Structure?* Tirth Joshi. Also presented at DuckAI 2025, Stevens Institute.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tirth_5828) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tirth5828) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tirth5828) 
+## Code
 
+| Repository | What it is |
+| --- | --- |
+| [nfleak-eccv2026](https://github.com/tirth5828/nfleak-eccv2026) | Code for the ECCV 2026 paper on re-identification pressure that builds up across vision releases, after every face is removed. |
+| [unlearning-is-not-deletion](https://github.com/tirth5828/unlearning-is-not-deletion) | Audit of what stays recoverable from embedding banks, prototypes and retrieval indices after a model is unlearned. |
+| [predict-then-commit](https://github.com/tirth5828/predict-then-commit) | Research code for streaming machine translation that decides when a translated prefix is stable enough to show. |
+| [case-closed](https://github.com/tirth5828/case-closed) | What happens after New Yorkers file a 311 complaint. Built at the NYPL Built for NYC: AI Hackathon, August 2026. |
+| [Onboardify](https://github.com/tirth5828/Onboardify) | A monitored testnet desk that takes people from financial intuition to operating onchain on their own. Built at ETHGlobal New York. |
 
-## 💻 Tech Stack:
+## Tools
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+Python · PyTorch · JAX · LangChain · FastAPI · Docker · gRPC · PostgreSQL · Neo4j · CUDA · Solidity
+
+Ask me about math, poetry, or where to find good food in New York.
