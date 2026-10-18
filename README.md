@@ -17,6 +17,7 @@ Graduating December 2026 and looking for research and applied ML roles from Janu
 - **NSIA 2026 at NetSci, Boston. Best Poster.** *Preserving Manifold Structure in Landmark Coresets: Morse-Seeded Sampling on kNN Graphs.* Tirth Joshi.
 - **IEEE ICNC 2026.** *Hierarchical Graph Representation for Multi-Chain Blockchain Routing.* Tirth Joshi, Honggang Wang.
   [Paper](https://doi.org/10.1109/ICNC68183.2026.11416872) · [YU News](https://www.yu.edu/news/katz/ieee-conference-ai-student-rethinks-how-money-moves-across-blockchains)
+- **DeepMath 2026, Columbus. Poster.** *How Much of "Gradient Conflict" Is Due to the Tasks, and How Much to the Coordinates?* Tirth Joshi.
 - **YU CSE 2025. Best Research.** *Do Phonetic Patterns Predict Grammatical Structure?* Tirth Joshi. Also presented at DuckAI 2025, Stevens Institute.
 
 ## Code
