@@ -17,7 +17,8 @@ Graduating December 2026 and looking for research and applied ML roles from Janu
 - **NSIA 2026 at NetSci, Boston. Best Poster.** *Preserving Manifold Structure in Landmark Coresets: Morse-Seeded Sampling on kNN Graphs.* Tirth Joshi.
 - **IEEE ICNC 2026.** *Hierarchical Graph Representation for Multi-Chain Blockchain Routing.* Tirth Joshi, Honggang Wang.
   [Paper](https://doi.org/10.1109/ICNC68183.2026.11416872) · [YU News](https://www.yu.edu/news/katz/ieee-conference-ai-student-rethinks-how-money-moves-across-blockchains)
-- **DeepMath 2026, Columbus. Poster.** *How Much of "Gradient Conflict" Is Due to the Tasks, and How Much to the Coordinates?* Tirth Joshi.
+- **DeepMath 2026, Ohio State, Columbus. Poster.** *How Much of "Gradient Conflict" Is Due to the Tasks, and How Much to the Coordinates?* Tirth Joshi.
+  [Project page](https://tirth5828.github.io/gradient-conflict-gauge/) · [Code](https://github.com/tirth5828/gradient-conflict-gauge)
 - **YU CSE 2025. Best Research.** *Do Phonetic Patterns Predict Grammatical Structure?* Tirth Joshi. Also presented at DuckAI 2025, Stevens Institute.
 
 ## Code
@@ -27,6 +28,7 @@ Graduating December 2026 and looking for research and applied ML roles from Janu
 | [nfleak-eccv2026](https://github.com/tirth5828/nfleak-eccv2026) | Code for the ECCV 2026 paper on re-identification pressure that builds up across vision releases, after every face is removed. |
 | [unlearning-is-not-deletion](https://github.com/tirth5828/unlearning-is-not-deletion) | Audit of what stays recoverable from embedding banks, prototypes and retrieval indices after a model is unlearned. |
 | [predict-then-commit](https://github.com/tirth5828/predict-then-commit) | Research code for streaming machine translation that decides when a translated prefix is stable enough to show. |
+| [gradient-conflict-gauge](https://github.com/tirth5828/gradient-conflict-gauge) | Code and results for the DeepMath 2026 poster: rescaling the layers of a ReLU network leaves training unchanged, yet it can flip the sign of the gradient conflict between tasks. |
 | [case-closed](https://github.com/tirth5828/case-closed) | What happens after New Yorkers file a 311 complaint. Built at the NYPL Built for NYC: AI Hackathon, August 2026. |
 | [Onboardify](https://github.com/tirth5828/Onboardify) | A monitored testnet desk that takes people from financial intuition to operating onchain on their own. Built at ETHGlobal New York. |
 
